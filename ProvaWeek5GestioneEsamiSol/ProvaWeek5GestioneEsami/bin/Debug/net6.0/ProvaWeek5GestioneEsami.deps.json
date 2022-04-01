@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProvaWeek5GestioneEsami/1.0.0": {
+        "runtime": {
+          "ProvaWeek5GestioneEsami.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProvaWeek5GestioneEsami/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

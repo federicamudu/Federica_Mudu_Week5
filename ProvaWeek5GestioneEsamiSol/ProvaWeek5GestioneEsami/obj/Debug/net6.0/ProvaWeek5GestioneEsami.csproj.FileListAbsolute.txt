@@ -1,0 +1,15 @@
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\bin\Debug\net6.0\ProvaWeek5GestioneEsami.exe
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\bin\Debug\net6.0\ProvaWeek5GestioneEsami.deps.json
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\bin\Debug\net6.0\ProvaWeek5GestioneEsami.runtimeconfig.json
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\bin\Debug\net6.0\ProvaWeek5GestioneEsami.dll
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\bin\Debug\net6.0\ref\ProvaWeek5GestioneEsami.dll
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\bin\Debug\net6.0\ProvaWeek5GestioneEsami.pdb
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\obj\Debug\net6.0\ProvaWeek5GestioneEsami.csproj.AssemblyReference.cache
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\obj\Debug\net6.0\ProvaWeek5GestioneEsami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\obj\Debug\net6.0\ProvaWeek5GestioneEsami.AssemblyInfoInputs.cache
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\obj\Debug\net6.0\ProvaWeek5GestioneEsami.AssemblyInfo.cs
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\obj\Debug\net6.0\ProvaWeek5GestioneEsami.csproj.CoreCompileInputs.cache
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\obj\Debug\net6.0\ProvaWeek5GestioneEsami.dll
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\obj\Debug\net6.0\ref\ProvaWeek5GestioneEsami.dll
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\obj\Debug\net6.0\ProvaWeek5GestioneEsami.pdb
+C:\Users\Federica\Desktop\ProvaWeek5\ProvaWeek5GestioneEsamiSol\ProvaWeek5GestioneEsami\obj\Debug\net6.0\ProvaWeek5GestioneEsami.genruntimeconfig.cache
